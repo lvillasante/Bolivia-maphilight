@@ -1,7 +1,7 @@
 Bolivia-maphilight
 ==================
 
-Bolivia Maphilight es un proyecto para mostrar el mapa político de Bolivia con áreas "sencibles" de los nueve departamentos, listo para colocar el enlace que se vea pertinente .
+Bolivia Maphilight es un proyecto para mostrar el mapa físico de Bolivia con áreas "sencibles" de los nueve departamentos, listo para colocar el link a cada departamento de forma independiente.
 
 Para ver el ejemplo final, se debe abrir el archivo demo.html
 
@@ -25,7 +25,7 @@ Varias opciones de inicio rápido están disponibles:
 
 ## Que se incluye
 
-Dentro de la descarga se encuentran los siguientes directorios y archivos. Se verá lo siguiente:
+Dentro de la descarga se encuentran los siguientes directorios y archivos:
 
 ```
 Bolivia-maphilight/
