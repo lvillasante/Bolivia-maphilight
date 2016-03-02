@@ -11,7 +11,7 @@ Para ver el ejemplo final, se debe abrir el archivo demo.html
 * [Inicio rapido](#inicio-rapido)
 * [Que se incluye](#que-se-incluye)
 * [Dependencia](#dependencia)
-* [Creator](#creator)
+* [Creador](#creador)
 * [License](#license)
 
 
