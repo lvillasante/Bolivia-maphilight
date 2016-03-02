@@ -5,6 +5,7 @@ Bolivia Maphilight es un proyecto para mostrar el mapa físico de Bolivia con á
 
 Para ver el ejemplo final, se debe abrir el archivo demo.html
 
+![Alt text](/image/map-of-bolivia.png?raw=true "Mapa fisico de Bolivia")
 
 ## Tabla de contenido
 
